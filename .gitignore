@@ -62,3 +62,13 @@ __pycache__/
 venv/
 env/
 .DS_Store
+
+# -- Y que Fue team additions --------------------------------------------------------------------
+# Everything we generate: ATD caches, probability tables, ball tracks, model weights, frames or
+# crops cut from the video. Frame-level derivatives of the match data must not be published.
+artifacts/
+runs/
+*.pt
+*.onnx
+*.npz
+*.ipynb_checkpoints
