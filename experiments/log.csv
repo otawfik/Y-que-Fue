@@ -1,0 +1,2 @@
+when,commit,note,file,h1_possessions,h1_mean_s,h1_median_s,h1_short_lt2s,h1_dead_share,h1_abstain_share,h1_home_share,h2_possessions,h2_mean_s,h2_median_s,h2_short_lt2s,h2_dead_share,h2_abstain_share,h2_home_share,possessions,mean_s,median_s,short_lt2s,dead_share,abstain_share,home_share,tag_agree,setpiece_dead_share
+2026-10-27 19:54,bfeb9b0,v0: official baseline_smooth50 through our interfaces (plumbing test),Y-que-Fue.csv,303,7.0,4.3,94,0.331,0.0,0.58,291,7.5,4.8,92,0.315,0.0,0.561,594,7.2,4.6,186,0.323,0.0,0.57,0.666,0.216
